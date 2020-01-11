@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomQuiz</string>
+    <string name="title" />
+    <string name="title_main">trivia</string>
+    <string name="is_true">True</string>
+    <string name="is_false">False</string>
+    <string name="counter_start" translatable="false">0 out of 100</string>
+    <string name="answers">The Answers Will Appear Here...</string>
+    <string name="correct">Correct</string>
+    <string name="Wrong">Wrong</string>
+</resources>
